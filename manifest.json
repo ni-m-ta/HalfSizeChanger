@@ -1,1 +1,14 @@
-first
+{
+    "name": "半角カナ変換",
+    "description": "もうめんどくさい手間を省こう。インターネットバンキング、行政手続き一発解決。",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "js": [
+        {
+            "js": ["content.js"]
+        }
+    ]
+}
