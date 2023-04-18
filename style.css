@@ -1,5 +1,10 @@
-memo{
+html{
+    height: 180px;
+    width: 200px;
+}
+
+.memo{
     resize: none;
-    width: 150px;
+    width: 180px;
     height: 100px;
 }
